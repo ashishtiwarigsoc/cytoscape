@@ -26,10 +26,10 @@ ERROR_MESSAGE="Usage: $CMDNAME [-h] [action]"
 HELP='Cytoscape repository management tool'
 
 # Git base URL
-BASE_URL='git@github.com:cytoscape/cytoscape-'
+BASE_URL='https://github.com/cytoscape/cytoscape-'
 
 # Core Apps URL
-APP_URL='git@github.com:cytoscape/'
+APP_URL='https://github.com/cytoscape/'
 
 # Cytoscape repository names
 REPOSITORIES=(. parent api impl support gui-distribution app-developer)
